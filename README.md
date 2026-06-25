@@ -61,7 +61,7 @@ We design for low bandwidth, intermittent power, multi-script languages, and the
 - **Website**: [otwox.com](https://otwox.com)
 - **Founder**: Eng. Saifuddin Ahmed Abdelgadir — Control Engineer & AI Researcher
 - **LinkedIn**: [linkedin.com/in/saifuddin2ahmed](https://linkedin.com/in/saifuddin2ahmed)
-- **Email**: safadeenahmed@gmail.com
+- **Email**: info@otwox.com
 - **Headquarters**: Kampala, Uganda · Operating across MENA & East Africa
 
 ---
